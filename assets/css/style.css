@@ -1,0 +1,36 @@
+h1{
+    color: rgb(108, 20, 189);
+    font-style: oblique;
+    text-align: center;
+    /* font-weight: 800; */
+    margin-top: 5px;
+}
+
+h3{
+    color: rgb(108, 20, 189);
+    text-align: center;
+    margin-top: 5px;
+}
+
+body{
+    background-color: rgb(207, 233, 243);
+}
+
+section{
+    background-color: rgb(207, 233, 243);
+}
+
+#botonEleccion{
+    color: rgb(216, 239, 247);
+    background-color: rgb(89, 24, 151);
+    border-radius: 10%;
+    margin-top: 2%;
+    height: 110%;
+}
+
+footer {
+    display: block;
+    margin-top: 150px;
+    text-align: center;
+  }
+  

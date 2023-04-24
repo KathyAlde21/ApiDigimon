@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 8px;
+}
+
+.image-container{
+    display: flex;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+article{
+    padding: 10px;
+    box-shadow: 0px 0px 1px #0000;
+}
+
+footer {
+    display: block;
+    margin-top: 150px;
+    text-align: center;
+  }
+  
